@@ -1,7 +1,7 @@
 applications:
    - name: DevOpsExample
      random-route: true
-     path: target/webapp.war
+     path: target/WebApp.war
      memory: 1024M
      instances: 1
      timeout: 180
